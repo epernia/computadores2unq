@@ -8,7 +8,7 @@
 <stringAttribute key="org.eclipse.debug.core.ATTR_REFRESH_SCOPE" value="${workspace}"/>
 <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="false"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.uqbar.project.wollok.launch.WollokLauncher"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-r -dd -requestsPort 0 -eventsPort 0 -dynamicDiagramPort 65286 -folder  -wf src/example.wlk "/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-r -dd -requestsPort 0 -eventsPort 0 -dynamicDiagramPort 0 -folder  -wf src/example.wlk "/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ej01pepita"/>
 <booleanAttribute key="org.eclipse.jdt.launching.STOP_IN_MAIN" value="false"/>
 <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Duser.language=es_AR"/>

@@ -1,0 +1,10 @@
+import seDiceAtomico.*
+
+describe "Tests de Se dice Atomico para cumplir con requerimientos" {
+
+	test "1. Se desea saber la producción energética de una central en Springfield." {
+	    assert.equals( springfield.produccionEnergeticaDe( centralAtomicaBurns ), 1 )
+	}
+	
+}
+
